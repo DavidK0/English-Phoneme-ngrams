@@ -1,7 +1,7 @@
 # English-Phoneme-ngrams
- The repo lets you make phoneme level ngram model of English. To use, run `build_PDF.py`, and then pass the output of that into the input of `process_PFD.py`. The first script will download two text files, combine them, and save the result. The second script will build an ngram model out of that.
+ The repository lets you make phoneme level ngram model of English. To use it, run `build_PDF.py`, and then pass the output of that into the input of `process_PFD.py`. The first script will download two text files, combine them, and save the result. The second script will build an ngram model out of that.
  
- The two text files are the a pronunciation dictionary and a frequecny dictionary. Combining these gives a pronunciation-frequency dictionary. From that we can make an ngram model. Here is some example output:
+ The two text files are a pronunciation dictionary and a frequecny dictionary. Combining these gives a pronunciation-frequency dictionary (PFD). From that we can make an ngram model. Here is some example output:
 
 wʌtɚmʌðɚ
 sɛlʌm
