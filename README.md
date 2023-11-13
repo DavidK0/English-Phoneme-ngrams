@@ -3,18 +3,18 @@
  
  The two text files are a pronunciation dictionary and a frequecny dictionary. Combining these gives a pronunciation-frequency dictionary (PFD). From that we can make an ngram model. Here is some example output:
 
-wʌtɚmʌðɚ
-sɛlʌm
-paʊntɚnmʌnd
-brɪkjʌŋ
-sʌbʌt
+wʌtɚmʌðɚ ○
+sɛlʌm ○
+paʊntɚnmʌnd ○
+brɪkjʌŋ ○
+sʌbʌt ○
 dɪskul
 
 And here is how I would probably spell those words:
 
-Whatermother
-Selum
-Pounternmund
-Brikjung
-Suhbut
+Whatermother ○
+Selum ○
+Pounternmund ○
+Brikjung ○
+Suhbut ○
 Diskul
