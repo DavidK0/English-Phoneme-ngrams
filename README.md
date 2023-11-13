@@ -7,4 +7,4 @@ wʌtɚmʌðɚ, sɛlʌm, paʊntɚnmʌnd, brɪkjʌŋ, sʌbʌt, dɪskul
 
 And here is how I would probably spell those words:
 
-Whatermother, Selum, Pounternmund, Brikjung, Suhbut, Diskul
+Whatermother, Selum, Pounternmund, Brikyung, Suhbut, Diskul
